@@ -8,7 +8,6 @@
 Hi, 你好，我时候coderyqy
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 我想和你讨论知识;
 - 📫 怎样联系我: 
