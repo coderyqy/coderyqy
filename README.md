@@ -25,7 +25,7 @@ Hi,
 - 📫 How to reach me: 
 - 📝 
 
-**Languages and Tools:**  
+**语言和工具：**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -34,11 +34,9 @@ Hi,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **这个星期我所学知识所花的时间:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   40 mins         ███████████████████░░░░░░   76.63 % 
-JSON         11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
 ```
 <!--END_SECTION:waka-->
 
