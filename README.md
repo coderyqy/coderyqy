@@ -22,7 +22,7 @@ Hi, 你好，我是coderyqy
 
 **博客**
 <br />
-[博客]: http://www.yangqingyun.com/#/
+http://www.yangqingyun.com/
 
 📊 **最近在学**
 <!--START_SECTION:waka-->
